@@ -98,3 +98,42 @@ border: none;
     column-gap:15px;
     row-gap: 30px;
 }
+
+.info_container li{
+    padding: 20px 0 20px 0;
+}
+
+.info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 72px;
+    margin-top: 150px;
+}
+    .image-container {
+      position: relative;
+    }
+
+   .image-container img {
+        width: 540px;
+        height: 597px
+        display: block;    }
+
+.trust_badge img{
+    height: 286px;
+    width: 286px;
+}
+    .badge {
+    position: absolute;
+    top: -130px;
+    right: -110px;
+    }
+.text-content li{
+    padding: 10px 0;
+}
+
+
+
+
+
+footer{height: 100px;}
