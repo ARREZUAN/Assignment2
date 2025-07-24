@@ -116,7 +116,7 @@ border: none;
 
    .image-container img {
         width: 540px;
-        height: 597px
+        height: 597px;
         display: block; 
        }
 
@@ -132,11 +132,6 @@ border: none;
 .text-content li{
     padding: 10px 0;
 }
-
-
-
-
-
 
 
 
